@@ -47,9 +47,8 @@ EXPERIENCE
 
 Employment
 ----------
-
 - **SQL Development Consultant - CACI - Reston, VA** - May 2023 - Present
-- Managed complex Oracle SQL development and BiRT report design library for customer requirements and internal functional team needs.
+  - Managed complex Oracle SQL development and BiRT report design library for customer requirements and internal functional team needs.
 
 - **Business Analyst - CGI Federal - Arlington, VA** - Dec 2022 -- May 2023
   - Utilizing Agile methodologies and DevOps tools to support CI/CD workflows of software products, facilitating sprint planning and JIRA backlog refinement.
