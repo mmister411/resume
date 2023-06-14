@@ -47,17 +47,18 @@ EXPERIENCE
 
 Employment
 ----------
-- SQL Development Consultant - CACI - Reston, VA - May 2023 - Present
+
+- **SQL Development Consultant - CACI - Reston, VA** - May 2023 - Present
 o Managed complex Oracle SQL development and BiRT report design library for customer requirements and internal functional team needs.
-- Business Analyst - CGI Federal - Arlington, VA - Dec 2022 -- May 2023
+- **Business Analyst - CGI Federal - Arlington, VA** - Dec 2022 -- May 2023
 o Utilizing Agile methodologies and DevOps tools to support CI/CD workflows of software products, facilitating sprint planning and JIRA backlog refinement.
-- Systems Analyst - Riverside Research - Centerville, VA - Oct 2022 -- Dec 2022
+- **Systems Analyst - Riverside Research - Centerville, VA** - Oct 2022 -- Dec 2022
 o Client-facing DevOps liaising between technical staff, software engineers, customer group, organization, external partners and stakeholders to include customer support, technical support and on-demand onsite training.
-- Data Analytics Engineer - NCWDG - Washington, DC - Jun 2018 - Oct 2022
+- **Data Analytics Engineer - NCWDG - Washington, DC** - Jun 2018 - Oct 2022
 o Programed advanced SQL query against 12 million records sourced across 5 cloud & onsite databases environments while ensuring compliance with all applicable data privacy and security regulations to then extract 34 billion+ features for big-data analysis leading to the creation of detailed reports and data visualizations representing fusion analysis of satellite ephemeris, maritime operations and SIGINT geospatial analysis (SGA) that supported on-site management, national leadership, and community-of-interest stakeholders.
-- Data Analysis Course Supervisor - IWTC - Pensacola, FL - Apr 2015 - Jun 2018
+- **Data Analysis Course Supervisor - IWTC - Pensacola, FL** - Apr 2015 - Jun 2018
 o Facilitated 4,344 hours of technical learning for 129 students on data analysis, pubic speaking, briefings, professionalism, motivation, reference materials and data presentation, ensuring records accuracy, and accountability for student generated constructive feedback to resolve issues.
-- Business Analytics Manager- NIOC Hawaii - Honolulu, HI - Mar 2012 - Apr 2015
+- **Business Analytics Manager - NIOC Hawaii - Honolulu, HI** - Mar 2012 - Apr 2015
 o Directed cross-functional teams totaling 99 analysts through 40,796 person-hours of producing 1,279 dashboards, pre and post-mission reports, deep-dive slide decks, and fulfilling customer requests for information, which accomplished a permanent contribution to the modernization effort of OPLAN 5077, U.S. Defense of the Sovereignty of Taiwan.
 
 ADDITIONAL TECHNICAL EXPERIENCE
