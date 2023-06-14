@@ -42,6 +42,12 @@ Soft Skills
 
 Briefing, Presentation, Public Speaking, Live Training, Written Communication, Verbal Communication, Motivating others, Manage, Flexible, Covid Protocols, Critical Thinking, Accuracy, Flexibility, Guidance, Teaching,
 
+Skill Development Accomplishments
+---------------------------------
+- **Cloud Linux Hosting** -- Initiated and administered six Ubuntu 18.04 and 20.04 servers as system administrator in support of independent projects for ministry workflow and advancement as a developer.
+- **PostgreSQL Backend Database** -- Deployed PostgreSQL Database to production in the cloud to function as the backend database supporting a Python code powered frontend API.
+- **Neo4J Graph Database** --Migrated PostgreSQL database a Neo4J Graph schema to support an extensive knowledge base with 202,867 nodes, and 8,649,045 relationships, allowing users to search for known references and discover new cross-references in the knowledge base with max reliability and efficiency.
+
 EXPERIENCE
 ==========
 
@@ -108,11 +114,7 @@ Successfully maintained five SQL databases and produced dashboards, reports, and
     - Recognized as subject matter expert in Ship Signal Exploitation Equipment Increment E (SSEE INC-E), increasing professional knowledge throughout the work center and contributing to the analysis and processing of 7,000 signals of interest, resulting in the location of 10 high-priority targets
     - Disseminated 150 time-sensitive reports to national and tactical commanders in support of SEVENTH and THIRD Fleet priority intelligence requirements, consistently praised by C3F staff for outstanding execution of intelligence warfare missions
 
-ADDITIONAL TECHNICAL EXPERIENCE
--------------------------------
-- **Cloud Linux Hosting** -- Initiated and administered six Ubuntu 18.04 and 20.04 servers as system administrator in support of independent projects for ministry workflow and advancement as a developer.
-- **PostgreSQL Backend Database** -- Deployed PostgreSQL Database to production in the cloud to function as the backend database supporting a Python code powered frontend API.
-- **Neo4J Graph Database** --Migrated PostgreSQL database a Neo4J Graph schema to support an extensive knowledge base with 202,867 nodes, and 8,649,045 relationships, allowing users to search for known references and discover new cross-references in the knowledge base with max reliability and efficiency.
+
 
 EDUCATION
 =========
