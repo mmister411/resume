@@ -1,15 +1,19 @@
 MARCUS MISTER
 ==============
-Beavercreek, OH | 850-221-6364 | mail@marcusmister.com |
-https://linkedin.com/in/marcus-t-mister/ | https://data.marcusmister.com |
+
+Beavercreek, OH | 850-221-6364 | mail@marcusmister.com
+
+https://linkedin.com/in/marcus-t-mister/ | https://data.marcusmister.com | https://github.com/mmister411
 
 
 CAREER PROFILE
 ==============
+
 Sixteen years of experience with the U.S. Department of Defense Intelligence Community in business analytics, gap analysis, customer relationship management, researching capabilities, and operational analysis. Groomed through a combination of professional instruction, on-the-job training, and self driven learning. Extensive experience collaborating technical and non-technical personnel. Lifetime learner constantly immersed in courses and independent projects for skill development and community involvement. Motivated by helping others succeed and solving challenging problems with thoughtful solutions.
 
 CERTIFICATIONS
 ==============
+
 - Top Secret Clearance SCI with CI Poly
 - Google Data Analytics Professional (Analytics, Tableau, R Programming)
 - Certified Master Training Specialist (Instructional Design, Technical Training, Formal Teaching)
@@ -18,8 +22,9 @@ CERTIFICATIONS
 
 SKILLS
 ======
+
 Business Analysis & Agile Methodologies
------------------------------------------
+------------------------------------------
 
 Requirements Analysis & Gathering, Process improvement, Gap Analysis, Implementation Plans, Business Logic, Scrum, Product Backlog, Sprint Planning, User Stories, Confluence, JIRA, Kanban, DevOps
 
@@ -39,6 +44,7 @@ Briefing, Presentation, Public Speaking, Live Training, Written Communication, V
 
 EXPERIENCE
 ==========
+
 Employment
 ----------
 - SQL Development Consultant - CACI - Reston, VA - May 2023 - Present
