@@ -1,7 +1,5 @@
 MARCUS MISTER
-
 Beavercreek, OH | 850-221-6364 | mail@marcusmister.com 
-
 https://linkedin.com/in/marcus-t-mister/ | https://data.marcusmister.com |
 
 
