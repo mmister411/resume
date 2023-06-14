@@ -59,12 +59,16 @@ o Client-facing DevOps liaising between technical staff, software engineers, cus
 
 - **Data Analytics Engineer - NCWDG - Washington, DC** - Jun 2018 - Oct 2022
 o Programed advanced SQL query against 12 million records sourced across 5 cloud & onsite databases environments while ensuring compliance with all applicable data privacy and security regulations to then extract 34 billion+ features for big-data analysis leading to the creation of detailed reports and data visualizations representing fusion analysis of satellite ephemeris, maritime operations and SIGINT geospatial analysis (SGA) that supported on-site management, national leadership, and community-of-interest stakeholders.
-
+Successfully maintained five SQL databases and produced dashboards, reports, and slide decks from own and community analysis insights. Delivered engaging presentations on those insights to customers, stakeholders, and decision-makers. 
+o Conducted trend analysis of seven years of operational data supporting a significant corporate branch, leading to improved tactics for responding to advances in competitor capabilities.   
+o Managed purchases of $21,700 in supplies and training, reviewed 118 Defense Travel System (DTS) finance documents accounting for the distribution of $79,700, resulting in 100% successful training, travel, reimbursement, and financial integrity of the department. 
+o Led effort to correct deficiencies in NCWDG modeling & simulation program by producing all required documentation and justification for purchasing C4ISR modeling software Systems Tool Kit.  Efforts enhanced the command's ability to research, verify and validate capabilities development and ensure compliance with Department of the Navy standards. 
 - **Data Analysis Course Supervisor - IWTC - Pensacola, FL** - Apr 2015 - Jun 2018
 o Facilitated 4,344 hours of technical learning for 129 students on data analysis, pubic speaking, briefings, professionalism, motivation, reference materials and data presentation, ensuring records accuracy, and accountability for student generated constructive feedback to resolve issues.
 
 - **Business Analytics Manager - NIOC Hawaii - Honolulu, HI** - Mar 2012 - Apr 2015
 o Directed cross-functional teams totaling 99 analysts through 40,796 person-hours of producing 1,279 dashboards, pre and post-mission reports, deep-dive slide decks, and fulfilling customer requests for information, which accomplished a permanent contribution to the modernization effort of OPLAN 5077, U.S. Defense of the Sovereignty of Taiwan.
+
 
 ADDITIONAL TECHNICAL EXPERIENCE
 -------------------------------
