@@ -47,14 +47,28 @@ EXPERIENCE
 
 Employment
 ----------
+
 - **SQL Development Consultant - CACI - Reston, VA** - May 2023 - Present
-  - Managed complex Oracle SQL development and BiRT report design library for customer requirements and internal functional team needs.
+- Managed complex Oracle SQL development and BiRT report design library for customer requirements and internal functional team needs.
 
-- **Business Analyst - CGI Federal - Arlington, VA** - Dec 2022 -- May 2023
-  - Utilizing Agile methodologies and DevOps tools to support CI/CD workflows of software products, facilitating sprint planning and JIRA backlog refinement.
+- **Business Analyst - CGI Federal - Arlington, VA** - Jan 2022 -- May 2023
+  - One-shot Bullet
+    - Utilizing Agile methodologies and DevOps tools to support CI/CD workflows of software products, facilitating sprint planning and JIRA backlog refinement.
+  - Responsibilities: 
+    - Collect and interpret client requirements for conversion to user stories; utilize Agile methodologies and DevOps tools to support continuous integration, delivery, and deployment of software products; conduct quality assurance and testing, manage stakeholder communication, and facilitate sprint planning and backlog refinement meetings, analyze project data to identify areas for improvement and conduct business process improvement initiatives.
+  - Activities Performed
+    - Collaborate with cross-functional teams to support requirements gathering, requirements analysis, and other business analysis or business logic adjustments to compose user stories in JIRA.
+    - Develop acceptance criteria and facilitate sprint planning and JIRA backlog refinement
+    - Coordinate with developers and quality assurance personnel to ensure timely delivery of high-quality software features throughout the software development life cycle (SDLC).
+    - Produce visualizations and diagrams with Visio or Draw.io (diagrams.net) integration within Atlassian Confluence to monitor project progress and identify areas for improvement.
+    - Manage stakeholder communication and ensure project alignment with business goals and objectives in order to maintain healthy customer relationship management (CRM)
+    - Attend and contribute to Agile ceremonies for continued communication with the team lead, scrum master, developers and other stakeholders.
 
-- **Systems Analyst - Riverside Research - Centerville, VA** - Oct 2022 -- Dec 2022
-  - Client-facing DevOps liaising between technical staff, software engineers, customer group, organization, external partners and stakeholders to include customer support, technical support and on-demand onsite training.
+- **System Analyst - Riverside Research - Centerville, VA** - Oct 2022 -- Dec 2022
+  - One-shot Bullet
+    - Liaising between technical staff, software engineers, customer group, organization, external partners and stakeholders to include customer support, technical support and on-demand onsite training.
+  - Position Description:  
+    - Client-facing DevOps support, such as collecting requirements, adjustments, and desired features from the client, providing subject-matter expertise and customer support, converting development team assessments into client-friendly updates, and converting client feedback into actionable insights for developers. 
 
 - **Data Analytics Engineer - NCWDG - Washington, DC** - Jun 2018 - Oct 2022
   - Programed advanced SQL query against 12 million records sourced across 5 cloud & onsite databases environments while ensuring compliance with all applicable data privacy and security regulations to then extract 34 billion+ features for big-data analysis leading to the creation of detailed reports and data visualizations representing fusion analysis of satellite ephemeris, maritime operations and SIGINT geospatial analysis (SGA) that supported on-site management, national leadership, and community-of-interest stakeholders.
@@ -68,30 +82,31 @@ Successfully maintained five SQL databases and produced dashboards, reports, and
   - Concepts instructed:  Competitor analysis, Key Performance Indicators (KPI), measures of effectiveness, mission planning, After Action Reporting, Critical Factors Analysis, Public Speaking, Briefing Skills, Presentation Design 
 
 - **Business Analytics Manager - NIOC Hawaii - Honolulu, HI** - Mar 2012 - Apr 2015
-  - Directed cross-functional teams totaling 99 analysts through 40,796 person-hours of producing 1,279 dashboards, pre and post-mission reports, deep-dive slide decks, and fulfilling customer requests for information, which accomplished a permanent contribution to the modernization effort of OPLAN 5077, U.S. Defense of the Sovereignty of Taiwan.
-  - Led, trained, mentored, or otherwise guided a total of 99 analysts  through analyzing, producing, and managing over 1,000+ data analysis reports and 133 customer requests, utilizing four databases and two analysis tools totaling 40,796 person-hours supporting Fleet, Theater, and National Commanders. 
-  - Conducted, facilitated, or designed a total of 1,062 hours of information operations, fusion analysis, and mission training, education, and mentorship  for 55 analysts, including 371 hours of mission training, hours of one-on-one training, 45 hours of cyber exercise program scenarios, and 260 mission training sessions. 
-  - As an Expert Analyst, developed 192 Information Operations products assessments, post-mission reconstruction scenarios, 3D ISR images, and other mission analysis support products, enhancing depth and fidelity of product analysis, situational awareness, and future targeting and planning for Third, Seventh, and Pacific Fleet Commanders. 
-  - Led sprint team supporting a Chief of Naval Operations directed countermeasure development project and two stakeholder-priority lines of effort. Efforts resulted in our Commanding Officer personally awarding a spot Navy & Marine Corps Achievement Medal 
-  - SIGINT Subject Matter Expert: Represented NIOC, Hawaii, at Pacific Fleet Intelligence Conference 2014, resulting in praise from SEVENTH AND THIRD Fleets and Pacific Fleet staff. 
-  - Coordinated communications and project scope with the local team, regional vendors, and national clients, including planning, documentation of meeting notes, and evaluation of orders to meet client requirements
+  - One-shot bullet:
+    -  Directed cross-functional teams totaling 99 analysts through 40,796 person-hours of producing 1,279 dashboards, pre and post-mission reports, deep-dive slide decks, and fulfilling customer requests for information, which accomplished a permanent contribution to the modernization effort of OPLAN 5077, U.S. Defense of the Sovereignty of Taiwan.
+  - Responsibilies
+    - Responsible for leading and managing teams of analysts in the production and management of data analysis reports and customer requests, conducting training sessions for analysts, leading sprints to support lines of effort, requests for information, coordinating communications and project scope with team members, executives, and clients, and planning and documenting meetings and evaluating orders to meet client requirements.
+  - Activities:
+    - Led, trained, mentored, or otherwise guided a total of 99 analysts  through analyzing, producing, and managing over 1,000+ data analysis reports and 133 customer requests, utilizing four databases and two analysis tools totaling 40,796 person-hours supporting Fleet, Theater, and National Commanders. 
+    - Conducted, facilitated, or designed a total of 1,062 hours of information operations, fusion analysis, and mission training, education, and mentorship  for 55 analysts, including 371 hours of mission training, hours of one-on-one training, 45 hours of cyber exercise program scenarios, and 260 mission training sessions. 
+    - As an Expert Analyst, developed 192 Information Operations products assessments, post-mission reconstruction scenarios, 3D ISR images, and other mission analysis support products, enhancing depth and fidelity of product analysis, situational awareness, and future targeting and planning for Third, Seventh, and Pacific Fleet Commanders. 
+    - Led sprint team supporting a Chief of Naval Operations directed countermeasure development project and two stakeholder-priority lines of effort. Efforts resulted in our Commanding Officer personally awarding a spot Navy & Marine Corps Achievement Medal 
+    - SIGINT Subject Matter Expert: Represented NIOC, Hawaii, at Pacific Fleet Intelligence Conference 2014, resulting in praise from SEVENTH AND THIRD Fleets and Pacific Fleet staff. 
+    - Coordinated communications and project scope with the local team, regional vendors, and national clients, including planning, documentation of meeting notes, and evaluation of orders to meet client requirements
 
 - **Technical Supervisor - USS CHAFEE (DDG-90) - Honolulu, HI** - Nov 2008-  Mar 2012
-  -  Consistently demonstrated strong leadership, technical skills, and initiative in a data-centric environment, exceeded collection goal expectations, and consistently provided exemplary support, leading by example in an ever-changing battlespace 
-  -  Recognized by the Commander, Third Fleet (C3F) for outstanding collection efforts, contributing to USS CHAFEE (DDG-90) being ranked #2 of 33 ships in C3F's Monthly Cryptologic Challenge due to attention to detail and in-rate knowledge 
-  -  Completed 15 qualifications ahead of schedule, allowing for greater flexibility in the work center's duty schedule and dedicated time to assist others with their qualifications 
-  -  Provided 40 hours of training on advanced Cryptologic Carry On Program (CCOP) Exploitation Systems, resulting in the qualifications of one supervisor and two operators 
-  -  Created two standard operating procedures and ten training presentations, improving operator proficiency and knowledge in both COMTHIRDFLT and COMSEVENTHFLT areas of responsibility 
-  -  Recognized as subject matter expert in Ship Signal Exploitation Equipment Increment E (SSEE INC-E), increasing professional knowledge throughout the work center and contributing to the analysis and processing of 7,000 signals of interest, resulting in the location of 10 high-priority targets 
-  -  Disseminated 150 time-sensitive reports to national and tactical commanders in support of SEVENTH and THIRD Fleet priority intelligence requirements, consistently praised by C3F staff for outstanding execution of intelligence warfare missions 
-  -  Member of damage control equipment maintenance team, corrected 720 shipboard maintenance discrepancies on equipment, contributed to six months of maintenance reports, and received 100% scores on all spot checks, leading to the ship's damage control maintenance group achieving outstanding 3M performance 
-  -  Recognized by the Commander, Third Fleet (C3F) for outstanding collection efforts, contributing to USS CHAFEE (DDG-90) being ranked #2 of 33 ships in C3F's Monthly Cryptologic Challenge due to attention to detail and in-rate knowledge 
-  -  Completed 15 qualifications ahead of schedule, allowing for greater flexibility in the work center's duty schedule and dedicated time to assist others with their qualifications 
-  -  Provided 40 hours of training on advanced Cryptologic Carry On Program (CCOP) Exploitation Systems, resulting in the qualifications of one supervisor and two operators 
-  -  Created two standard operating procedures and ten training presentations, improving operator proficiency and knowledge in both COMTHIRDFLT and COMSEVENTHFLT areas of responsibility 
-  -  Recognized as subject matter expert in Ship Signal Exploitation Equipment Increment E (SSEE INC-E), increasing professional knowledge throughout the work center and contributing to the analysis and processing of 7,000 signals of interest, resulting in the location of 10 high-priority targets 
-  -  Disseminated 150 time-sensitive reports to national and tactical commanders in support of SEVENTH and THIRD Fleet priority intelligence requirements, consistently praised by C3F staff for outstanding execution of intelligence warfare missions 
-  - Member of damage control equipment maintenance team, corrected 720 shipboard maintenance discrepancies on equipment, contributed to six months of maintenance reports, and received 100% scores on all spot checks, leading to the ship's damage control maintenance group achieving outstanding 3M performance 
+  - One-shot bullet:  
+    - Supervised technical analyst team time-sensitive reporting, equipment maintenance, and mission analyis resulting with corporate level recognition for the team. 
+  - Position Description:
+    - Coach and develop new and existing associates on collection opportunities, create solutions and investigate collection opportunities in a data-centric environment. Exceeded collection goal expectations and provided exemplary leadership support by leading through example in a labor-based industry and staying relevant in a growing market.
+
+  - Activities Performed:
+    - Consistently demonstrated strong leadership, technical skills, and initiative in a data-centric environment, exceeded collection goal expectations, and consistently provided exemplary support, leading by example in an ever-changing battlespace
+    - Recognized by the Commander, Third Fleet (C3F) for outstanding collection efforts, contributing to USS CHAFEE (DDG-90) being ranked #2 of 33 ships in C3F's Monthly Cryptologic Challenge due to attention to detail and in-rate knowledge
+    - Completed 15 qualifications ahead of schedule, allowing for greater flexibility in the work center's duty schedule and dedicated time to assist others with their qualifications
+    - Created two standard operating procedures and ten training presentations, improving operator proficiency and knowledge in both COMTHIRDFLT and COMSEVENTHFLT areas of responsibility
+    - Recognized as subject matter expert in Ship Signal Exploitation Equipment Increment E (SSEE INC-E), increasing professional knowledge throughout the work center and contributing to the analysis and processing of 7,000 signals of interest, resulting in the location of 10 high-priority targets
+    - Disseminated 150 time-sensitive reports to national and tactical commanders in support of SEVENTH and THIRD Fleet priority intelligence requirements, consistently praised by C3F staff for outstanding execution of intelligence warfare missions
 
 ADDITIONAL TECHNICAL EXPERIENCE
 -------------------------------
