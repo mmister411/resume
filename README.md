@@ -20,15 +20,22 @@ SKILLS
 ======
 Business Analysis & Agile Methodologies
 -----------------------------------------
+
 Requirements Analysis & Gathering, Process improvement, Gap Analysis, Implementation Plans, Business Logic, Scrum, Product Backlog, Sprint Planning, User Stories, Confluence, JIRA, Kanban, DevOps
+
 Data Analysis & Management
 ----------------------------
+
 Python, SQL, Azure, Tableau, Power BI, Looker, Reporting, Digital Documentation, Data Modeling, Data Prediction, Data Cleansing, Data Archiving, Data Migration, Data Warehousing, Databases, Structured & Unstructured Data, Exploration, Data Management, Data Pipelines, Data Science, Data Wrangling, Data Manipulating, Data Storage, Data Applications
+
 Information Technology & Cloud Services
 -----------------------------------------
+
 PowerPoint, Excel, Cloud Development, Architectures, Infrastructure, Installation, IIS, PAAS, Windows PowerShell, Linux, SharePoint, Computer Science, Amazon Web Services AWS
+
 Soft Skills
 -----------
+
 Briefing, Presentation, Public Speaking, Live Training, Written Communication, Verbal Communication, Motivating others, Manage, Flexible, Covid Protocols, Critical Thinking, Accuracy, Flexibility, Guidance, Teaching,
 
 EXPERIENCE
