@@ -25,7 +25,6 @@ Requirements Analysis & Gathering, Process improvement, Gap Analysis, Implementa
 
 Data Analysis & Management
 ----------------------------
-
 Python, SQL, Azure, Tableau, Power BI, Looker, Reporting, Digital Documentation, Data Modeling, Data Prediction, Data Cleansing, Data Archiving, Data Migration, Data Warehousing, Databases, Structured & Unstructured Data, Exploration, Data Management, Data Pipelines, Data Science, Data Wrangling, Data Manipulating, Data Storage, Data Applications
 
 Information Technology & Cloud Services
